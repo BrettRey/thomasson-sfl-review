@@ -18,7 +18,7 @@ A Huddleston-line reviewer: the branch of the Firthian lineage that came up thro
 
 ## Relation to Piece 2
 
-Companion philosophy article: `../thomasson-kinds-projectibility/`. The linguistic diagnosis (grammatical metaphor reintroduces the category/function confound; she half-concedes it) lives here. The metaphysical argument (function-first works better with projectibility-first, field-relative kinds; she engages only the essentialist half of the kinds debate) lives there. Keep the two clearly differentiated to avoid salami-slicing.
+Companion philosophy article: `../thomasson-kinds-projectibility/`. The linguistic diagnosis (grammatical metaphor reintroduces the category/function confound; she half-concedes it) lives here. The metaphysical argument lives there and should use Brett's current framework from *Kinds as Projectibility Profiles* and *Not Every Stable Cluster Is Homeostatic*: kind claims are evaluated by projectibility profiles, support grades, scope conditions, failure modes, and demotion rules; homeostasis is one stabilizing/control pattern, not the master vocabulary. Keep the two clearly differentiated to avoid salami-slicing.
 
 ## Venue candidates (run /venue-selection before deciding)
 
@@ -34,4 +34,4 @@ Linguistics venues that run review essays: *Journal of Linguistics*, *Language S
 
 ## Status / license
 
-See `STATUS.md`. Intended license CC BY 4.0 (add the full LICENSE text at first public push). Public GitHub remote is **held** pending Brett's go-ahead (critical piece on a living author, pre-submission).
+See `STATUS.md`. License: CC BY 4.0. Public GitHub shipping authorized on 2026-06-30.

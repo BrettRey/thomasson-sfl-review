@@ -2,7 +2,7 @@
 
 ## Genesis
 
-Grew out of a reading session on Amie Thomasson's *Rethinking Metaphysics* (OUP 2025) and *Norms and Necessity* (OUP 2020), checked against Brett's projectibility-first, field-relative account of kinds. Two pieces were scoped; this is the linguistics-facing review essay.
+Grew out of a reading session on Amie Thomasson's *Rethinking Metaphysics* (OUP 2025) and *Norms and Necessity* (OUP 2020), checked against Brett's current projectibility-profile account of kinds. The live framework is *Kinds as Projectibility Profiles* plus *Not Every Stable Cluster Is Homeostatic*: kind claims are assessed by projectibility profiles, support grades, scope conditions, failure modes, and demotion rules; homeostasis is one stabilizing/control pattern, not the master vocabulary. Two pieces were scoped; this is the linguistics-facing review essay.
 
 ## Audience and genre
 
@@ -42,4 +42,4 @@ Rapoport's rules: credit the functions (and the genuine achievement of the book)
 
 ## Companion
 
-Philosophy article `../thomasson-kinds-projectibility/` carries the metaphysical argument (projectibility-first kinds; the opponent she does not meet). Keep the two differentiated.
+Philosophy article `../thomasson-kinds-projectibility/` carries the metaphysical argument. Use the projectibility-profile framework there, not older "everything is HPC" vocabulary: the issue is which projections Thomasson's functional kinds support, under which scope conditions, with what stabilizers or control patterns, and with what failure/demotion rules. Keep the two differentiated.

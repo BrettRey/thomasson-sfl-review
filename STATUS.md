@@ -2,16 +2,17 @@
 
 ## Current state (2026-06-29)
 
-Scaffolded. House style and central bibliography wired by symlink. Strategic brief and grounded source findings captured in `notes/`. No prose drafted yet (still in shaping; design agreed, drafting is the next phase).
+First source-grounding and rough-drafting pass completed. House style and central bibliography are wired by symlink. Strategic brief, start plan, source findings, literature-expansion notes, and a first passage map are in `notes/`. `main.tex` now has a complete rough draft, including abstract, introduction, Sections 2--5, conclusion, and acknowledgements.
 
 ## Next action
 
-Draft Section 1 (the news: a metaphysician built her positive program on SFL) and Section 4 (grammatical metaphor and the category/function confound), since those carry the piece. Pull the source quotes already logged in `notes/source-verification.md`.
+Polish for submission: check page numbers against the published books, tighten the abstract and introduction after Brett reviews the stance, and decide whether the public draft should keep the current projectibility-profile paragraph in Section 5 or move that material fully to the companion philosophy article.
 
 ## Blockers
 
-- Bibliographic entries for Thomasson (2025, 2020), Halliday (2009), Eggins (2004) not yet in `references-local.bib`. Verify and add before citing.
-- Page numbers: working from a libgen scan with markdown line refs, not page numbers. Get a legitimate copy and confirm pages before any quotation goes to submission.
+- Page numbers in `notes/passage-map.md` are first-pass physical/PDF-derived page numbers and should be manually checked against rendered pages before submission.
+- Halliday/Huddleston lineage claims still need independent history-of-linguistics sourcing if used as factual history rather than standpoint.
+- Companion-piece framing must use the current projectibility-profile framework from *Kinds as Projectibility Profiles* and *Not Every Stable Cluster Is Homeostatic*, not older "everything is HPC" vocabulary.
 
 ## Decisions
 
@@ -20,4 +21,4 @@ See `DECISIONS.md`.
 ## Pending Brett
 
 - Confirm working title.
-- Confirm whether to create the public GitHub remote now or hold until a draft exists (currently held).
+- Review the complete rough draft before venue-specific revision.

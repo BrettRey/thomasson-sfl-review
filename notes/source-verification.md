@@ -1,8 +1,8 @@
 # Source verification -- thomasson-sfl-review
 
-**Global caveat.** All findings below come from a libgen markdown scan of *Rethinking Metaphysics* (2025), now filed in the central literature folder as `literature/thomasson_2025_rethinking_metaphysics.md` (with `.pdf` and `.notes.md` alongside). Locations are markdown line numbers in that copy, not page numbers. Before any quotation goes to submission, confirm wording and get real page numbers from a legitimate copy.
+**Global caveat.** All findings below come from the local working Markdown extraction of *Rethinking Metaphysics* (2025), filed in the central literature folder as `literature/thomasson_2025_rethinking_metaphysics.md` (with `.pdf` and `.notes.md` alongside). Locations are Markdown line numbers in that copy, not page numbers. Before any quotation goes to submission, confirm wording and page numbers against the published book.
 
-**Bib status.** No Thomasson, Halliday, or Eggins entries are in `references-local.bib` yet. Do not cite from memory; verify DOIs/pages and add before drafting citations.
+**Bib status.** Thomasson 2025, Thomasson 2020, Halliday 2009, Eggins 2004, Halliday and Matthiessen 2014, and Bavali and Sadighi 2008 have verified entries in `references-local.bib`. Do not cite new sources from memory; verify DOIs/pages and add before drafting citations.
 
 ## Verified by direct read of the markdown (Brett/Claude, 2026-06-29)
 
