@@ -2,7 +2,7 @@
 
 ## Current state (2026-06-30)
 
-Public GitHub is set up at `https://github.com/BrettRey/thomasson-sfl-review` and the project is shipped under CC BY 4.0. `main.tex` and `main.pdf` are current on pushed `master`.
+Public GitHub is set up at `https://github.com/BrettRey/thomasson-sfl-review` and the project is shipped under CC BY 4.0. `main.tex` and `main.pdf` are current on pushed `master`. Public title: "A metaphysician's systemic-functional turn: Amie Thomasson's *Rethinking Metaphysics* and the architecture of linguistic description."
 
 Public archive records:
 - LingBuzz: `https://lingbuzz.net/lingbuzz/010101`
@@ -12,14 +12,14 @@ The draft is a short linguistics review essay on Thomasson's SFL turn. The curre
 
 ## Next action
 
-Polish for submission: check page numbers against the published books, decide venue, and run one final source/page-anchor pass around the Thomasson formal-functional and grammatical-metaphor passages.
+Prepare journal-submission version: check page numbers against the published books, decide venue, and run one final source/page-anchor pass around the Thomasson formal-functional and grammatical-metaphor passages.
 
 ## Blockers
 
 - Page numbers in `notes/passage-map.md` are first-pass physical/PDF-derived page numbers and should be manually checked against rendered pages before submission.
 - Halliday/Huddleston lineage claims still need independent history-of-linguistics sourcing if used as factual history rather than standpoint.
 - Companion-piece framing must use the current projectibility-profile framework from *Kinds as Projectibility Profiles* and *Not Every Stable Cluster Is Homeostatic*, not older "everything is HPC" vocabulary.
-- The public draft is suitable as a shipped working version, but not yet a submission package.
+- The public preprint is suitable as a shipped working version, but not yet a journal-submission package.
 
 ## Decisions
 
@@ -27,9 +27,8 @@ See `DECISIONS.md`.
 
 ## Pending Brett
 
-- Confirm working title.
 - Decide venue (`Journal of Linguistics`, `Language Sciences`, or another target).
-- Decide whether to circulate the public draft as-is or first run a submission-oriented review pass.
+- Decide whether to run a submission-oriented review pass before journal submission.
 
 ### 2026-06-30 Afternoon Session Notes
 - Finished the final terminological-hygiene pass: title/abstract/conclusion now use "architecture of linguistic description"; the paper avoids projectibility/projection vocabulary in the linguistics-facing prose; noun/NP/nominal wording is tightened.

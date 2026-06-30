@@ -2,7 +2,9 @@
 
 **Piece 1 of two** on Amie Thomasson's recent metaphysics, written for a **linguistics** audience.
 
-Working title (provisional): *A metaphysician's systemic-functional turn: Amie Thomasson's* Rethinking Metaphysics *and the architecture of linguistic description*.
+Public title: *A metaphysician's systemic-functional turn: Amie Thomasson's* Rethinking Metaphysics *and the architecture of linguistic description*.
+
+Preprints: [LingBuzz 010101](https://lingbuzz.net/lingbuzz/010101) and [PhilArchive REYAMS](https://philarchive.org/rec/REYAMS).
 
 ## Purpose
 
@@ -34,4 +36,4 @@ Linguistics venues that run review essays: *Journal of Linguistics*, *Language S
 
 ## Status / license
 
-See `STATUS.md`. License: CC BY 4.0. Public GitHub shipping authorized on 2026-06-30.
+See `STATUS.md`. License: CC BY 4.0. Public GitHub and preprint posting authorized on 2026-06-30.

@@ -38,4 +38,4 @@
 
 2026-06-30 -- Avoid "projection/projectibility" vocabulary in this linguistics-facing paper's prose. Reason: it belongs to the companion philosophical framework; here the clearer terms are inferences, expectations, carry-over, and what follows from linguistic description.
 
-2026-06-30 -- Public archive records are LingBuzz `https://lingbuzz.net/lingbuzz/010101` and PhilArchive `https://philarchive.org/rec/REYAMS`. Reason: Brett supplied both public handles during final posting.
+2026-06-30 -- Public archive records are LingBuzz `https://lingbuzz.net/lingbuzz/010101` and PhilArchive `https://philarchive.org/rec/REYAMS`, under the title "A metaphysician's systemic-functional turn: Amie Thomasson's Rethinking Metaphysics and the architecture of linguistic description." Reason: Brett supplied both public handles during final posting; LingBuzz serves the linguistics audience and PhilArchive serves as the philosophy-facing archive record.
