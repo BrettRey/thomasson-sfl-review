@@ -19,3 +19,13 @@
 2026-06-30 -- Brett authorized public GitHub setup and shipping. Reason: explicit instruction, "when you're done, set up a public github with an appropriate license and ship."
 
 2026-06-30 -- Ship under CC BY 4.0. Reason: public scholarly prose benefits from reuse with attribution; this matches the earlier intended license and is appropriate for a review essay draft.
+
+2026-06-30 -- Frame the SFL critique as an extraction argument, not as a refutation of Thomasson's metaphilosophy. Reason: the strongest fair claim is that Thomasson's useful discourse-role insights are detachable from Halliday's placement of those roles inside grammatical architecture.
+
+2026-06-30 -- Narrow the live case study to NP-forming/noun-term recastings; keep modal vocabulary as Thomassonian background rather than a second analysis. Reason: the draft's actual evidence and diagnostics are about property, number, and event recastings, so promising a parallel modal treatment would overstate the paper's scope.
+
+2026-06-30 -- Treat the autonomy claim as minimal syntactic autonomy. Reason: discourse roles are real and explanatory, but they don't determine syntactic category or syntactic function.
+
+2026-06-30 -- State the distribution-first alternative through explicit NP diagnostics before drawing the discourse-role contrast. Reason: philosophers and SFL readers need a positive procedure, not only a CGEL-friendly slogan.
+
+2026-06-30 -- Use "inside grammatical architecture/description" rather than "inside syntax" unless the narrow CGEL-style syntactic domain is explicitly in view. Reason: SFL works with lexicogrammar, strata, metafunctions, and realization; the safer target is the architectural placement of discourse roles.
