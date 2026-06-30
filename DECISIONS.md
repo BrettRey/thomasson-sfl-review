@@ -30,4 +30,12 @@
 
 2026-06-30 -- Use "inside grammatical architecture/description" rather than "inside syntax" unless the narrow CGEL-style syntactic domain is explicitly in view. Reason: SFL works with lexicogrammar, strata, metafunctions, and realization; the safer target is the architectural placement of discourse roles.
 
-2026-06-30 -- Make the conclusion land on metaphysics as a stress test for grammatical description, not on theory-export alone. Reason: the linguistics-facing payoff is that Thomasson's examples ask which projections follow from NP status and which are imported from a familiar concrete-object noun model.
+2026-06-30 -- Make the conclusion land on metaphysics as a stress test for grammatical description, not on theory-export alone. Reason: the linguistics-facing payoff is that Thomasson's examples ask which expectations follow from NP status and which are imported from a familiar concrete-object noun model.
+
+2026-06-30 -- Use the title frame "architecture of linguistic description" rather than "autonomy of syntax." Reason: the finished paper's claim crosses syntax, semantics, discourse, and metaphilosophy; "syntax" was too narrow and invited a stronger modularity reading than the draft needs.
+
+2026-06-30 -- Treat "function" with three explicit labels: syntactic function, Hallidayan metafunction, and discourse role. Reason: the paper's local hygiene depends on keeping structural relations, SFL architectural dimensions, and practice-level roles apart.
+
+2026-06-30 -- Avoid "projection/projectibility" vocabulary in this linguistics-facing paper's prose. Reason: it belongs to the companion philosophical framework; here the clearer terms are inferences, expectations, carry-over, and what follows from linguistic description.
+
+2026-06-30 -- Public archive records are LingBuzz `https://lingbuzz.net/lingbuzz/010101` and PhilArchive `https://philarchive.org/rec/REYAMS`. Reason: Brett supplied both public handles during final posting.
