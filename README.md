@@ -6,11 +6,11 @@ Working title (provisional): *A metaphysician's systemic-functional turn: Amie T
 
 ## Purpose
 
-A review essay, book-anchored to Thomasson, *Rethinking Metaphysics* (OUP 2025). The news for linguists: a leading metaphysician has built the positive program of metaphysics (metaphysics as conceptual engineering) on Halliday's systemic functional linguistics (SFL). Almost no one in linguistics has noticed.
+A review essay, book-anchored to Thomasson, *Rethinking Metaphysics* (OUP 2025). The news for linguists: a leading metaphysician has turned to Halliday's systemic functional linguistics (SFL) for vocabulary in the positive program of metaphysics as conceptual engineering. Almost no one in linguistics has noticed.
 
 ## Thesis
 
-Two moves. (1) Surface the SFL grounding and its stakes: our category/function and autonomy-of-syntax debates now have an external philosophical consumer. (2) One sharp caution: the book takes the function-in-syntax architecture on board as if it were neutral linguistics, when it is a contested choice. Halliday was right about the functions, wrong to put them in the syntax. Thomasson's own deflationary results do not need the placement; they ride on easy ontology plus framework-neutral functional facts.
+Two moves. (1) Surface the SFL grounding and its stakes: our category/function and autonomy-of-syntax debates now have an external philosophical consumer. (2) One sharp caution: the book takes the function-in-syntax architecture on board as if it were neutral linguistics, when it is a specific theoretical choice. Halliday was right to insist on discourse roles; the grammatical placement is optional. Thomasson's own deflationary results do not need the placement; they ride on easy ontology plus framework-neutral discourse-role facts.
 
 ## Standpoint
 

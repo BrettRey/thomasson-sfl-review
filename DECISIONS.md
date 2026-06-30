@@ -29,3 +29,5 @@
 2026-06-30 -- State the distribution-first alternative through explicit NP diagnostics before drawing the discourse-role contrast. Reason: philosophers and SFL readers need a positive procedure, not only a CGEL-friendly slogan.
 
 2026-06-30 -- Use "inside grammatical architecture/description" rather than "inside syntax" unless the narrow CGEL-style syntactic domain is explicitly in view. Reason: SFL works with lexicogrammar, strata, metafunctions, and realization; the safer target is the architectural placement of discourse roles.
+
+2026-06-30 -- Make the conclusion land on metaphysics as a stress test for grammatical description, not on theory-export alone. Reason: the linguistics-facing payoff is that Thomasson's examples ask which projections follow from NP status and which are imported from a familiar concrete-object noun model.

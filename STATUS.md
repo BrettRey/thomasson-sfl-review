@@ -2,7 +2,7 @@
 
 ## Current state (2026-06-30)
 
-Public GitHub is set up at `https://github.com/BrettRey/thomasson-sfl-review` and the project is shipped under CC BY 4.0. `main.tex` and `main.pdf` are current at commit `407451b` (`Clarify SFL architecture critique`) on `master`.
+Public GitHub is set up at `https://github.com/BrettRey/thomasson-sfl-review` and the project is shipped under CC BY 4.0. `main.tex` and `main.pdf` are current on pushed `master`.
 
 The draft is a short linguistics review essay on Thomasson's SFL turn. The current argument is an extraction argument: Thomasson's discourse-role insights survive without Halliday's stronger placement of those roles inside grammatical architecture. The live case study is NP-forming/noun-term recastings; modal vocabulary remains background.
 
@@ -35,4 +35,4 @@ See `DECISIONS.md`.
 - Added explicit distribution-first diagnostics for the relevant NPs and kept discourse roles separate.
 - Replaced broad "inside syntax" formulations with "inside grammatical architecture/description" where appropriate.
 - Built and checked `main.pdf`; only known `fancyhdr`/`microtype` warnings remain.
-- Pushed commit `407451b` to the public GitHub remote.
+- Pushed the manuscript and shutdown-state commits to the public GitHub remote.
