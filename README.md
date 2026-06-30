@@ -2,7 +2,7 @@
 
 **Piece 1 of two** on Amie Thomasson's recent metaphysics, written for a **linguistics** audience.
 
-Working title (provisional): *A metaphysician's systemic-functional turn: Amie Thomasson's* Rethinking Metaphysics *and the autonomy of syntax*.
+Working title (provisional): *A metaphysician's systemic-functional turn: Amie Thomasson's* Rethinking Metaphysics *and the architecture of linguistic description*.
 
 ## Purpose
 
